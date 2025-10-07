@@ -1,0 +1,77 @@
+@prefix atticlaw: <http://www.ontologia.fr/OTB/merged_attic_law_2.0/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+atticlaw:anno_Andoc_4_1 a oa:Annotation ;
+    dcterms:created "2025-09-15T16:13:01.455266"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:121630 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='10']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators#Andoc_4> ] .
+
+atticlaw:anno_Andoc_4_2 a oa:Annotation ;
+    dcterms:created "2025-09-15T16:13:10.047069"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:121630 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='13']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators#Andoc_4> ] .
+
+atticlaw:anno_Andoc_4_3 a oa:Annotation ;
+    dcterms:created "2025-09-15T16:21:51.698946"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:102297 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='17']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators#Andoc_4> ] .
+
+atticlaw:anno_Andoc_4_4 a oa:Annotation ;
+    dcterms:created "2025-09-15T16:21:59.894635"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:121630 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='21']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators#Andoc_4> ] .
+
+atticlaw:anno_Andoc_4_5 a oa:Annotation ;
+    dcterms:created "2025-09-15T16:24:10.145531"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:875855 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='21']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators#Andoc_4> ] .
+
+atticlaw:anno_Andoc_4_6 a oa:Annotation ;
+    dcterms:created "2025-09-15T16:25:02.587065"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:334740 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='26']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators#Andoc_4> ] .
+
+atticlaw:anno_Andoc_4_7 a oa:Annotation ;
+    dcterms:created "2025-09-15T16:25:11.519932"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:334740 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='29']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators#Andoc_4> ] .
+
+atticlaw:anno_Andoc_4_8 a oa:Annotation ;
+    dcterms:created "2025-09-15T16:27:21.191158"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:569795 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='33']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators#Andoc_4> ] .
+

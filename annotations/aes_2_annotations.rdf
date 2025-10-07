@@ -1,0 +1,1688 @@
+@prefix atticlaw: <http://www.ontologia.fr/OTB/merged_attic_law_2.0/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+atticlaw:anno_Aes._2_1 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:09:54.875615"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='3']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_10 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:43:13.075447"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='10']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_100 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:20:22.574288"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='79']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_101 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:22:05.925874"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:566481 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='81']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_102 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:22:12.662980"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:566481 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='81']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_103 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:22:18.928396"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='81']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_104 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:22:27.461415"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='82']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_105 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:22:34.736110"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:566481 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='82']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_106 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:22:44.024244"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='82']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_107 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:25:05.679229"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:m8 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='83']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_108 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:25:14.607548"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:566481 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='83']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_109 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:25:19.688643"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='84']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_11 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:45:11.835424"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:587565 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='13']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_110 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:25:26.581474"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='84']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_111 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:26:39.800960"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:120375 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='85']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_112 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:26:45.799372"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='85']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_113 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:26:55.679948"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:m8 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='86']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_114 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:27:04.586793"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:566481 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='86']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_115 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:27:09.869287"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:566481 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='88']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_116 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:27:14.431629"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:566481 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='89']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_117 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:27:20.318571"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:566481 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='89']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_118 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:27:29.581930"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='89']/p/persName[4]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_119 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:31:20.903008"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:979470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='90']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_12 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:45:20.721927"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='13']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_120 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:31:28.934566"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:566481 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='90']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_121 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:31:50.758732"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='90']/p/persName[4]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_122 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:32:00.734367"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:566481 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='93']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_123 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:32:28.802161"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='99']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_124 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:33:24.148101"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='99']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_125 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:35:49.878150"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='100']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_126 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:35:56.638014"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='101']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_127 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:36:00.285812"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='106']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_128 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:36:08.173933"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='110']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_129 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:36:11.085896"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='111']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_13 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:45:48.132546"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:587565 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='13']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_130 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:36:50.799580"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='118']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_131 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:36:53.286112"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='118']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_132 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:38:23.837688"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:578330 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='120']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_133 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:38:30.877264"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='120']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_134 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:38:45.149282"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='123']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_135 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:43:14.340764"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:m9 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='126']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_136 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:43:31.347188"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:531075 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='126']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_137 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:44:40.021076"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:768010 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='126']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_138 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:47:56.691979"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='132']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_139 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:50:25.123579"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:789835 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='133']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_14 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:45:56.129689"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='13']/p/persName[4]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_140 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:50:32.162328"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='134']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_141 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:50:38.252499"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:789835 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='134']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_142 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:50:44.019070"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='136']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_143 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:58:00.307350"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:m10 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='140']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_144 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:01:05.211057"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:834250 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='140']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_145 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:02:10.225009"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:303955 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='140']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_146 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:02:17.815667"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='141']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_147 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:03:11.759992"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:654910 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='143']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_148 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:17:42.565557"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:608380 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='143']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_149 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:23:16.550434"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:884310 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='144']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_15 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:46:00.649742"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='14']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_150 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:24:35.579484"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:Q44233 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='144']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_151 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:24:40.396039"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='148']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_152 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:26:10.659588"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:952425 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='149']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_153 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:27:47.059072"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:934045 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='150']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_154 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:31:49.419159"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:955865 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='150']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_155 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:32:49.333387"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:394100 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='150']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_156 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:32:57.497741"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:955865 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='150']/p/persName[4]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_157 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:33:01.955175"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:955865 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='151']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_158 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:33:08.378921"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:394100 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='151']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_159 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:33:19.803842"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:955865 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='151']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_16 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:46:11.778989"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='14']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_160 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:33:27.649446"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:934045 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='152']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_161 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:33:36.776859"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:955865 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='152']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_162 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:33:48.250296"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:394100 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='152']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_163 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:33:59.066101"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='152']/p/persName[4]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_164 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:37:36.616533"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:m11 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='155']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_165 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:37:41.760926"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:m11 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='155']/p/persName[4]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_166 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:38:17.687550"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:303955 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='155']/p/persName[6]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_167 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:46:31.624314"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:165330 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='155']/p/persName[8]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_168 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:47:30.182992"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:450015 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='155']/p/persName[9]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_169 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:48:42.990683"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:731473 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='157']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_17 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:46:20.492717"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:937530 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='14']/p/persName[4]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_170 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:52:37.469913"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:y ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='157']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_171 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:53:00.904062"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:m11 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='158']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_172 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:53:07.365235"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='159']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_173 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:53:11.510504"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='162']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_174 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:53:20.893069"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='164']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_175 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:55:02.767628"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:164185 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='166']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_176 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:55:56.279758"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:659840 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='166']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_177 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:56:03.172853"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:164185 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='166']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_178 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:59:21.011760"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:880495 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='169']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_179 a oa:Annotation ;
+    dcterms:created "2025-08-06T10:59:30.019243"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:880495 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='170']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_18 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:47:39.771795"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:531075 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='15']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_180 a oa:Annotation ;
+    dcterms:created "2025-08-06T11:03:49.844217"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:967590 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='170']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_181 a oa:Annotation ;
+    dcterms:created "2025-08-06T11:04:55.959160"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:127280 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='174']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_182 a oa:Annotation ;
+    dcterms:created "2025-08-06T11:05:04.859256"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='178']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_183 a oa:Annotation ;
+    dcterms:created "2025-08-06T11:05:10.213478"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='178']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_184 a oa:Annotation ;
+    dcterms:created "2025-08-06T11:05:26.043710"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:884310 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='180']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_185 a oa:Annotation ;
+    dcterms:created "2025-08-06T11:08:55.826945"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:428495 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='184']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_186 a oa:Annotation ;
+    dcterms:created "2025-08-06T11:09:17.937622"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:967590 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='184']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_187 a oa:Annotation ;
+    dcterms:created "2025-08-06T11:09:48.466976"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:701680 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='184']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_19 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:53:02.255630"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:401240 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='15']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_2 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:10:01.172408"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='4']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_20 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:56:28.623617"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:m4 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='15']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_21 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:57:48.784422"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:842270 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='15']/p/persName[4]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_22 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:58:24.264755"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:937530 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='15']/p/persName[5]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_23 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:58:27.968368"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='15']/p/persName[6]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_24 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:59:26.729441"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:115030 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='15']/p/persName[7]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_25 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:01:22.375570"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:168590 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='16']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_26 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:01:35.695462"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:531075 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='16']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_27 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:01:48.814774"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='16']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_28 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:01:55.126525"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:937530 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='18']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_29 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:02:01.926113"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='18']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_3 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:14:20.832458"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:937530 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='6']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_30 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:02:06.590751"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='18']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_31 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:03:12.383672"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:701680 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='18']/p/persName[4]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_32 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:03:31.758205"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='18']/p/persName[5]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_33 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:03:44.782689"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:937530 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='18']/p/persName[6]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_34 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:03:49.104419"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:937530 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='18']/p/persName[7]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_35 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:04:01.968799"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:168590 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='19']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_36 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:04:10.705228"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:168590 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='19']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_37 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:04:13.840594"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:168590 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='19']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_38 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:04:28.936002"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:168590 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='19']/p/persName[4]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_39 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:04:32.585738"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:168590 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='19']/p/persName[5]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_4 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:14:30.083901"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:937530 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='8']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_40 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:04:58.134107"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demothenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='24']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_41 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:05:23.566455"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='25']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_42 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:08:07.479904"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:124820 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='26']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_43 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:08:17.157042"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='26']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_44 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:08:25.357032"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:124820 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='26']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_45 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:11:39.908877"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:769870 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='27']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_46 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:13:06.980124"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:542925 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='28']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_47 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:16:30.868715"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:444745 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='28']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_48 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:17:50.716895"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:772120 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='28']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_49 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:18:00.094138"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:542925 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='28']/p/persName[4]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_5 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:27:51.263325"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:966010 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='8']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_50 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:18:04.923152"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:542925 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='29']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_51 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:18:15.027297"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:769870 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='29']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_52 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:21:27.458668"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:792725 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='29']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_53 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:21:35.628591"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:772120 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='29']/p/persName[4]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_54 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:21:38.698224"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:772120 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='30']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_55 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:24:02.995338"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:559800 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='31']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_56 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:25:07.930018"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:Q1320718 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='31']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_57 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:26:04.484276"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:Q348668 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='31']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_58 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:26:15.504941"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:124820 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='32']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_59 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:26:35.074499"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='32']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_6 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:28:08.221788"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='8']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_60 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:26:39.827112"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='34']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_61 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:26:47.202170"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='34']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_62 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:26:53.753312"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='35']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_63 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:26:56.297246"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='38']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_64 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:26:59.746638"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='38']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_65 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:27:04.700300"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='41']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_66 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:44:38.384551"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:587565 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='42']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_67 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:46:49.958350"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:566481 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='44']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_68 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:47:12.661785"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='45']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_69 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:47:16.471362"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='45']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_7 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:33:33.142083"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:428495 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='8']/p/persName[4]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_70 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:47:21.732985"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='48']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_71 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:47:26.084935"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='49']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_72 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:47:43.854183"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:168590 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='54']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_73 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:47:51.957540"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='57']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_74 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:47:56.732706"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='59']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_75 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:48:02.252322"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='60']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_76 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:48:08.157941"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:168590 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='63']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_77 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:48:14.774444"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='65']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_78 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:50:06.294091"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:124895 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='67']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_79 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:50:20.572068"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:124895 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='67']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_8 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:34:00.412634"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='8']/p/persName[5]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_80 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:50:40.772331"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:115030 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='67']/p/persName[4]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_81 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:50:47.771896"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='67']/p/persName[5]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_82 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:51:07.996467"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='67']/p/persName[6]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_83 a oa:Annotation ;
+    dcterms:created "2025-08-05T11:51:11.533668"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='68']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_84 a oa:Annotation ;
+    dcterms:created "2025-08-05T17:28:09.905137"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:886180 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='70']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_85 a oa:Annotation ;
+    dcterms:created "2025-08-05T17:30:05.363091"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:581750 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='70']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_86 a oa:Annotation ;
+    dcterms:created "2025-08-05T17:32:06.224051"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:979470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='71']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_87 a oa:Annotation ;
+    dcterms:created "2025-08-05T17:34:41.851269"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:m5 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='71']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_88 a oa:Annotation ;
+    dcterms:created "2025-08-05T17:36:17.278705"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:m6 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='71']/p/persName[4]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_89 a oa:Annotation ;
+    dcterms:created "2025-08-05T17:46:06.319932"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:569315 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='73']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_9 a oa:Annotation ;
+    dcterms:created "2025-08-05T10:43:04.523900"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:Q332750 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='10']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_90 a oa:Annotation ;
+    dcterms:created "2025-08-05T17:47:13.974886"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:979470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='73']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_91 a oa:Annotation ;
+    dcterms:created "2025-08-05T17:48:19.943427"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:134930 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='73']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_92 a oa:Annotation ;
+    dcterms:created "2025-08-05T17:48:30.286707"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='73']/p/persName[4]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_93 a oa:Annotation ;
+    dcterms:created "2025-08-05T17:49:41.600967"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:225105 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='78']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_94 a oa:Annotation ;
+    dcterms:created "2025-08-05T17:49:47.326317"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:demosthenes ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='78']/p/persName[2]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_95 a oa:Annotation ;
+    dcterms:created "2025-08-05T18:02:13.631436"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:576545 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='78']/p/persName[3]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_96 a oa:Annotation ;
+    dcterms:created "2025-08-05T18:03:38.117987"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:276260 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='78']/p/persName[4]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_97 a oa:Annotation ;
+    dcterms:created "2025-08-05T18:08:14.842029"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:306140 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='78']/p/persName[6]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_98 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:19:52.646310"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:m7 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='78']/p/persName[8]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
+atticlaw:anno_Aes._2_99 a oa:Annotation ;
+    dcterms:created "2025-08-06T09:20:19.223248"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0009-0000-0420-4711> ;
+    oa:hasBody atticlaw:930470 ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:XPathSelector ;
+                    oa:value "/TEI/text/body/div/div[@n='79']/p/persName[1]" ] ;
+            oa:hasSource <http://www.ontologia.fr/OTB/classical_orators/Aes._2> ] .
+
