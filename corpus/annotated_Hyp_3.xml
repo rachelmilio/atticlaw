@@ -107,8 +107,8 @@
                         ἄνδρες δικα<add>σταί, ῥηθ</add>ήσεται<note resp="editor" xml:lang="lat"><foreign xml:lang="grc">ῥηθήσεται</foreign> Jensen:<foreign xml:lang="grc">εἰρήσεται</foreign> Kenyon.</note> γὰρ πρὸς ὑμᾶς
                         τἀληθές, ταῦ<add>τα π</add>επεῖσθαι. οὕτως, ὡς ἔοικεν, ἐξίστησιν
                             <add>ἀνθρώπου</add><note resp="Loeb"><foreign xml:lang="grc">ἀνθρώπου</foreign> Blass: <foreign xml:lang="grc">ἡμῶν
-                                τὴν</foreign> Diels.</note> φύσιν ἔρως, προσλαβὼν γυναι<add>κὸς
-                            συνεργ</add>ίαν.<note resp="editor" xml:lang="lat"><foreign xml:lang="grc">συνεργίαν</foreign> Jensen:<foreign xml:lang="grc">ποικιλίαν</foreign> Kenyon: alii alia.</note> ἐκείνη γοῦν
+                                τὴν</foreign> Diels.</note> φύσιν ἔρως, προσλαβὼν <persName type="woman">γυναικὸς</persName>
+                            συνεργίαν.<note resp="editor" xml:lang="lat"><foreign xml:lang="grc">συνεργίαν</foreign> Jensen:<foreign xml:lang="grc">ποικιλίαν</foreign> Kenyon: alii alia.</note> ἐκείνη γοῦν
                         φενακίζουσα <add>ἅπαντ</add>α<note resp="editor" xml:lang="lat"><foreign xml:lang="grc">ἅπαντα</foreign> Diels: <foreign xml:lang="grc">τὰ
                                 μάταια</foreign> Kenyon.</note> ταῦτα προσπεριέκοψε<add>ν α</add>ὑτῇ
                             <add>ὡς δὴ</add><note resp="editor" xml:lang="lat"><foreign xml:lang="grc">ὡς δὴ</foreign> Diels: <foreign xml:lang="grc">ἔτι</foreign> Jensen.</note> εἰς παιδίσκην τριακοσίας δραχμὰς
@@ -118,7 +118,7 @@
           <p>ἴσως μὲν οὖν, ὦ ἄνδρες δι<add>κας</add>ταί, οὐδὲν
                             <add>ὑπερ</add>θαύμαστόν<note resp="Loeb"><foreign xml:lang="grc">ὑπερθαύμαστόν</foreign> ci. Kenyon, qui tamen <foreign xml:lang="grc">οὕτω θαυμαστόν</foreign> habet: tantum<foreign xml:lang="grc">θαυμαστόν</foreign> Jensen.</note> με ὑπὸ
                             Ἀν<add>τιγόν</add>ας τὸν τρόπον τουτονὶ παιδαγω<add>γηθῆ</add>ναι,
-                        γυναικὸς ἣ δεινοτάτη μὲν <add>τῶν</add> ἑταιρῶν, ὥς φασιν, ἐφʼ
+                        <persName type="woman">γυναικὸς</persName> ἣ δεινοτάτη μὲν <add>τῶν</add> ἑταιρῶν, ὥς φασιν, ἐφʼ
                             ἡλ<add>ικί</add>ας ἐγένε<add>το, διατ</add>ετέλεκε<note resp="editor" xml:lang="lat"><foreign xml:lang="grc">διατετέλεκε</foreign>
                             Weil.</note> δὲ πορνοβοσκοῦσα <gap reason="lost" rend=" . . . . . . . . . . . . . . . . . . . . . . . "/><seg type="noparse">εν</seg><gap reason="lost" rend=" . . . . . . . . . . "/>οἶκον τοῦ Χολλίδου οὐ<add>δενὸς ἐλά</add>ττω<note resp="editor" xml:lang="lat"><foreign xml:lang="grc">οὐδενὸς ἐλάττω</foreign> Jensen:
                                 <foreign xml:lang="grc">οὐ φαῦλον οὕτω</foreign> Blass.</note> ὄντα
@@ -265,7 +265,7 @@
                         γυναικῶν παῖδες οὗτοι γνήσιοί εἰσιν. ἀλ<add>λὰ</add> μὴ<add>ν<note resp="Loeb"><foreign xml:lang="grc">ἀλλὰ μὴν</foreign>et sq. ad col.
                                 8 finem plerumque restituit Revillout.</note> οὐκ
                             ἀ</add>πέ<add>χρ</add>ησε τῷ νομοθ<add>έτῃ</add> τὸ
-                        ἐγγ<add>υηθῆ</add>ναι τὴν γυναῖκα ὑπὸ <add>τοῦ πατ</add>ρὸς <add>ἢ τοῦ
+                        ἐγγ<add>υηθῆ</add>ναι τὴν <persName type="woman">γυναῖκα</persName> ὑπὸ <add>τοῦ πατ</add>ρὸς <add>ἢ τοῦ
                             ἀδ</add>ελφοῦ, ἀλλʼ ἔγραψε δι<add>αρρή</add>δην ἐν <add>τῷ νόμ</add>ῳ,
                             <add>ἣν</add> ἂν ἐγγυήσῃ τ<add>ις ἐπὶ δικαίοις δάμαρτα</add> ἐκ ταύτης
                             εἶν<add>αι παῖδας γνησίους,<note resp="editor" xml:lang="lat"><foreign xml:lang="grc">εἶναι παῖδας γνησίους</foreign>Weil.</note> καὶ
@@ -280,14 +280,14 @@
                         παραπλήσιος τούτοις ἐστίν· κελεύε<add>ι γὰρ ἐξεῖν</add>αι<note resp="editor" xml:lang="lat"><foreign xml:lang="grc">γὰρ ἐξεῖναι</foreign> Blass.</note> τὰ ἑαυτοῦ
                             <add>δια</add>τίθεσθα<add>ι ὅπως ἄν</add><note resp="Loeb"><foreign xml:lang="grc">ὅπως ἄν</foreign> Fuhr.</note> τις βούληται πλὴν
                             <add>ἢ γή</add>ρως ἕνε<add>κεν</add> ἢ νόσου ἢ μανιῶν ἢ
-                            γυ<add>ναικὶ</add> πειθόμ<add>ενο</add>ν ἢ <add>ὑπὸ</add> δεσμοῦ ἢ
+                            <persName type="woman">γυναικὶ</persName> πειθόμ<add>ενο</add>ν ἢ <add>ὑπὸ</add> δεσμοῦ ἢ
                             ὑ<add>πὸ ἀνά</add>γκης κ<add>ατ</add>αληφθ<add>έντ</add>α. ὅπου δὲ οὐδὲ
                             <add>περὶ</add> τῶν αὑτοῦ ἰδίων αἱ <add>μὴ δ</add>ίκαιαι<note resp="editor" xml:lang="lat"><foreign xml:lang="grc">μὴ δίκαιαι</foreign> Blass.</note> διαθῆκαι
                         κύριαί εἰσιν, πῶς <persName>Ἀθηνογένει</persName> γε κα<add>τὰ τῶ</add>ν<note resp="editor" xml:lang="lat"><foreign xml:lang="grc">κατὰ τῶν</foreign> Kenyon.</note> ἐμῶν συνθεμένῳ
                         τοιαῦτα δεῖ <add>κύρι</add>α εἶναι; </p>
         </div>
         <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0030.tlg003.perseus-grc2" n="18">
-          <p>καὶ ἐὰν μέν τι<add>ς</add> ὡς ἔοικ<add>ε</add>ν τῇ ἑαυτοῦ γυναικὶ πειθόμενος
+          <p>καὶ ἐὰν μέν τι<add>ς</add> ὡς ἔοικ<add>ε</add>ν τῇ ἑαυτοῦ <persName type="woman">γυναικὶ</persName> πειθόμενος
                         διαθήκας <add>γρά</add>ψῃ<note resp="editor" xml:lang="lat"><foreign xml:lang="grc">γράψῃ</foreign> Diels.</note> ἄκυροι
                             ἔσο<add>ντα</add>ι, εἰ δʼ ἐγὼ τῇ Ἀθηνογ<add>ένο</add>υς ἑταίρᾳ ἐπείσθην,
                         προσαπολωλέναι <add>με</add><note resp="editor" xml:lang="lat"><foreign xml:lang="grc">με</foreign> Weil.</note> δεῖ, ὃς ἔχω
@@ -396,10 +396,10 @@
             <add>ἔφη,</add>
             <q><add>ἐπ</add>ικρατὴς<note resp="editor" xml:lang="lat"><foreign xml:lang="grc">ἐβούλετο γενόμενος
                                 ἐπικρατὴς</foreign>Kenyon.</note> πράγματα ἔχειν <add>ᾧ ἔξεστι
-                                λα</add>βόντι τὸν παῖδα <add>χρ</add>ῆσθ<add>αι</add><note resp="Loeb">Post<foreign xml:lang="grc">χρῆσθαι</foreign> add.
+                                λα</add>βόντι τὸν <persName type="woman">παῖδα</persName> <add>χρ</add>ῆσθ<add>αι</add><note resp="Loeb">Post<foreign xml:lang="grc">χρῆσθαι</foreign> add.
                                     <foreign xml:lang="grc">ὅ τι ἂν ἐθέλῃ</foreign>Hager.</note><gap reason="lost" rend=" . . . . . . . . . . . "/>τὴν μὲν
                                 συκοφα<add>ντίαν</add><gap reason="lost" rend=" . . . . . . . . . . . . "/><add>ἐ</add>ποιεῖτο τῷ δὲ <seg type="noparse">λ</seg><gap reason="lost" rend=" . . . . . . . . . . . . . "/><add>ἀ</add>δικημάτων <seg type="noparse">κα</seg><gap reason="lost" rend=" . . . . . . . . . . . "/><add>ἐπ</add>ίστευσα <add>ὡ</add>ς
-                                <seg type="noparse">ε</seg><gap reason="lost" rend=" . . . . . . . . . . . "/><add>τὸ</add>ν μὲν παῖδα <seg type="noparse">δι</seg><gap reason="lost" rend="  . . . . . . . . . . . "/><seg type="noparse">ν</seg> οὐκ
+                                <seg type="noparse">ε</seg><gap reason="lost" rend=" . . . . . . . . . . . "/><add>τὸ</add>ν μὲν <persName type="woman">παῖδα</persName> <seg type="noparse">δι</seg><gap reason="lost" rend="  . . . . . . . . . . . "/><seg type="noparse">ν</seg> οὐκ
                                 ἤθελο<add>ν</add><gap reason="lost" rend=" . . . . . . . . . . . "/>
                             οὖν τετ<add>ταράκοντα μνᾶς</add><gap reason="lost" rend=" . . . . . "/><add>πέν</add>τε τάλα<add>ντα<note resp="Loeb"><foreign xml:lang="grc">τετταράκοντα</foreign>usque ad<foreign xml:lang="grc">τάλαντα</foreign>Diels.</note></add>
                             <gap reason="lost" rend=" . . . . . . . . "/><note resp="P" type="Text">Desunt versus duo.</note></q>
