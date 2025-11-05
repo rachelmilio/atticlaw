@@ -481,7 +481,7 @@
             τοιοῦτόν τι παρανομῆσαι. ἀλλὰ μὴν Αὐτολύκου μὲν<note anchored="true" resp="editor" xml:lang="lat"><app><lem xml:lang="grc">μὲν</lem></app><foreign xml:lang="grc">γε</foreign> Gebauer.</note> ὑμεῖς κατεψηφίσασθε, </p>
         </div>
         <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0034.tlg001.perseus-grc2" n="53">
-          <p>μείναντος μὲν αὐτοῦ ἐν τοῖς κινδύνοις, ἔχοντος δʼ αἰτίαν τοὺς υἱεῖς καὶ τὴν γυναῖκα ὑπεκθέσθαι, καὶ ἐτιμωρήσασθε.<note anchored="true" resp="editor" xml:lang="lat"><app><lem xml:lang="grc">κα ἐτιμωρήσασθε</lem></app> del. Dobree.</note> καίτοι εἰ τὸν τοὺς ἀχρήστους εἰς τὸν πόλεμον ὑπεκθέσθαι
+          <p>μείναντος μὲν αὐτοῦ ἐν τοῖς κινδύνοις, ἔχοντος δʼ αἰτίαν τοὺς υἱεῖς καὶ τὴν <persName type="woman">γυναῖκα</persName> ὑπεκθέσθαι, καὶ ἐτιμωρήσασθε.<note anchored="true" resp="editor" xml:lang="lat"><app><lem xml:lang="grc">κα ἐτιμωρήσασθε</lem></app> del. Dobree.</note> καίτοι εἰ τὸν τοὺς ἀχρήστους εἰς τὸν πόλεμον ὑπεκθέσθαι
             αἰτίαν ἔχοντα ἐτιμωρήσασθε, τί δεῖ πάσχειν ὅστις ἀνὴρ ὢν οὐκ ἀπέδωκε τὰ τροφεῖα τῇ
             πατρίδι; ἔτι δὲ ὁ δῆμος δεινὸν ἡγησάμενος εἶναι τὸ γιγνόμενον ἐψηφίσατο ἐνόχους εἶναι τῇ
             προδοσίᾳ τοὺς φεύγοντας τὸν ὑπὲρ τῆς πατρίδος κίνδυνον, ἀξίους εἶναι νομίζων τῆς ἐσχάτης
@@ -788,7 +788,7 @@
           <p rend="align(indent)">καίτοι σκέψασθε, ὦ ἄνδρες· οὐ γὰρ ἀποστήσομαι τῶν παλαιῶν· ἐφʼ οἷς γὰρ ἐκεῖνοι ποιοῦντες ἐφιλοτιμοῦντο, ταῦτα δικαίως ἂν ὑμεῖς ἀκούσαντες ἀποδέχοισθε. φασὶ γὰρ <note anchored="true" resp="editor" xml:lang="lat">A verbis
                 <foreign xml:lang="grc">τὸν Ποσειδῶνος</foreign> rursus incipit N.</note> καὶ Χιόνης
             μετὰ Θρᾳκῶν ἐλθεῖν τῆς χώρας ταύτης ἀμφισβητοῦντα, τυχεῖν δὲ κατʼ ἐκείνους τοὺς χρόνους
-            βασιλεύοντα Ἐρεχθέα, γυναῖκα ἔχοντα Πραξιθέαν τὴν Κηφισοῦ θυγατέρα. <persName>Εὔμολπον</persName> τὸν Ποσειδῶνος</p>
+            βασιλεύοντα Ἐρεχθέα, <persName type="woman">γυναῖκα</persName> ἔχοντα Πραξιθέαν τὴν Κηφισοῦ θυγατέρα. <persName>Εὔμολπον</persName> τὸν Ποσειδῶνος</p>
         </div>
         <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0034.tlg001.perseus-grc2" n="99">
           <p>μεγάλου δὲ στρατοπέδου μέλλοντος αὐτοῖς εἰσβάλλειν εἰς τὴν χώραν, εἰς <note anchored="true" resp="editor" xml:lang="lat"><foreign xml:lang="grc">τὼ στρατοπέδω</foreign> Taylor:
@@ -802,8 +802,8 @@
             μῦθον προείλετο ποιῆσαι, ἡγούμενος κάλλιστον ἂν γενέσθαι τοῖς πολίταις παράδειγμα τὰς
             ἐκείνων πράξεις, πρὸς ἃς ἀποβλέποντας καὶ θεωροῦντας συνεθίζεσθαι ταῖς ψυχαῖς τὸ τὴν
             πατρίδα φιλεῖν. ἄξιον δʼ, ὦ ἄνδρες δικασταί, καὶ τῶν ἰαμβείων ἀκοῦσαι, ἃ πεποίηκε
-            λέγουσαν τὴν μητέρα τῆς παιδός. ὄψεσθε γὰρ ἐν αὐτοῖς μεγαλοψυχίαν καὶ γενναιότητα ἀξίαν
-            καὶ τῆς πόλεως καὶ τοῦ γενέσθαι Κηφισοῦ θυγατέρα. <quote rend="blockquote" n="verse"><title>Ῥῆσις Εὐριπίδου</title><l met="iambic">τὰς χάριτας ὅστις εὐγενῶς χαρίζεται,</l><l>ἥδιον ἐν βροτοῖσιν· οἳ δὲ δρῶσι μέν,</l><l>χρόνῳ δὲ δρῶσι, δυσγενέστερον<note anchored="true" resp="editor" xml:lang="lat"><foreign xml:lang="grc"><add>δρῶσι</add> δυσγενέστερον</foreign> Heinrich:
+            λέγουσαν τὴν <persName type="woman">μητέρα</persName> τῆς παιδός. ὄψεσθε γὰρ ἐν αὐτοῖς μεγαλοψυχίαν καὶ γενναιότητα ἀξίαν
+            καὶ τῆς πόλεως καὶ τοῦ γενέσθαι Κηφισοῦ <persName type="woman">θυγατέρα</persName>. <quote rend="blockquote" n="verse"><title>Ῥῆσις Εὐριπίδου</title><l met="iambic">τὰς χάριτας ὅστις εὐγενῶς χαρίζεται,</l><l>ἥδιον ἐν βροτοῖσιν· οἳ δὲ δρῶσι μέν,</l><l>χρόνῳ δὲ δρῶσι, δυσγενέστερον<note anchored="true" resp="editor" xml:lang="lat"><foreign xml:lang="grc"><add>δρῶσι</add> δυσγενέστερον</foreign> Heinrich:
                     <foreign xml:lang="grc">δυσγενέστερον <add>λέγω</add></foreign> Meineke.</note>
                 <gap reason="lost" rend=" . . . "/>
               </l><l>ἐγὼ δὲ δώσω τὴν ἐμὴν παῖδα κτανεῖν.</l><l n="5">λογίζομαι δὲ πολλά· πρῶτα μὲν πόλιν</l><l>οὐκ ἄν τινʼ ἄλλην τῆσδε βελτίω λαβεῖν·</l><l><note anchored="true" resp="editor" xml:lang="lat">VV. 7-10 cit. <bibl n="Plut. De Exilio 604d" xml:lang="eng">Plut. Mor. 604 d-e</bibl></note>ᾗ πρῶτα
